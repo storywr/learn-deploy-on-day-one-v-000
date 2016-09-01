@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#william-story-cover {
+  background-image: url("http://i.imgur.com/5k2czKu.jpg")
+}
+
+#william-story-card {
+  background-image: url("http://imgur.com/a/Iqpqz")
+}
+
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
 }
